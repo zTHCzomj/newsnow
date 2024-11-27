@@ -12,7 +12,7 @@ const Time = {
 }
 
 export const originSources = {
-  "baidu": {
+  "lznews": {
     name: "鲁中网",
     column: "china",
     color: "blue",
