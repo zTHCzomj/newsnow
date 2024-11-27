@@ -18,7 +18,7 @@ export const originSources = {
     home: "https://v2ex.com/",
     sub: {
       share: {
-        title: "最新分享",
+        title: "最新分享1",
         column: "tech",
       },
     },
