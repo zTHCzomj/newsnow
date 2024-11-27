@@ -12,6 +12,13 @@ const Time = {
 }
 
 export const originSources = {
+  "baidu": {
+    name: "鲁中网",
+    column: "china",
+    color: "blue",
+    type: "hottest",
+    home: "https://www.lznews.cn",
+  },
   "v2ex": {
     name: "V2EX",
     color: "slate",
